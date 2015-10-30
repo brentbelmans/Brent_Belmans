@@ -1,0 +1,9 @@
+
+Helpfunctie 
+•	Speler klikt op de help knop
+•	Een scherm opent met verschillende help categorieën
+•	Speler klikt op een categorie en eventuele subcategorieën
+•	Hyperlinks met specifieke hulp verschijnen naast de categorieën
+•	Speler klikt op een hyperlink
+•	Beschrijving en uitleg van het probleem komen naast de hyperlinks te staan
+•	Speler sluit het helpscherm na het vinden van zijn probleem en de uitleg om het op te lossen
